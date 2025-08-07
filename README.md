@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋  Hi, I’m **Dr Kishor Bhat**
 
-<!--
-**kishorbhat-math/kishorbhat-math** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Mathematician** modelling human-health systems with  
+*Monte-Carlo simulation · ODE solvers · signal analysis.*
 
-Here are some ideas to get you started:
+- 🔭 Current focus: **CUDA-accelerated iron-metabolism model**  
+- 📰 **30 + peer-reviewed papers** · h-index 12  
+- 🛠️ Python · R · MATLAB · Git  
+- 🌏 Bengaluru — open to **consulting & collaboration**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Road-map of public repos
+
+| Repository | Brief | Status |
+|------------|-------|--------|
+| **iron-kinetics-gpu** | CUDA solver for micronutrient transport | scaffolding |
+| **bayesian-nutrition-model** | Hierarchical PyMC dietary model | scaffolding |
+| **teaching-odes** | Notebook series on ODE methods | scaffolding |
+
+_More coming soon…_
